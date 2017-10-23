@@ -1,4 +1,5 @@
 .terraform/
 *.tfstate
 *.backup
+out.terraform
 
